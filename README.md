@@ -1,2 +1,2 @@
-# FirstTerraGame
-A 2D platformer game
+# TerraGame1
+A 2d Platformer Game.
